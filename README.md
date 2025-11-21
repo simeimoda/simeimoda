@@ -2,7 +2,7 @@
 
 **`Front-end Developer`**
 
-Programming student from Curitiba - PR, learning JavaScript and looking to become a full stack developer..
+Programming student from Curitiba - PR, learning JavaScript and looking to become a full stack developer.
 
 <p align="left">
     <a href="https://github.com/andreiMDL?tab=repositories&sort=stargazers">
@@ -68,14 +68,14 @@ Programming student from Curitiba - PR, learning JavaScript and looking to becom
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=andreiMDL&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=simeimoda&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreiMDL&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=simeimoda&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
